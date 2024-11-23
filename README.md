@@ -1,0 +1,1 @@
+<p>Customer Attrition Project : I developed a machine learning model to predict customer churn for a Telco Company to the helping the business identify at-risk customers and take proactive retention measures.</p>
